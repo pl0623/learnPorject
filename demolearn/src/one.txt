@@ -15,9 +15,13 @@ seven
 
 eight
 
+<<<<<<< HEAD
 nine
 
 ten
 
 
 eleven
+=======
+nine
+>>>>>>> parent of 80cb3c9... ten
